@@ -8,7 +8,7 @@
 |teammate|role|
 |---|---|
 |`gil`|front/back-end & deploy|
-|`lim`|backend & 멱살|
+|`lim`|backend & 멱살 (수정)|
 |`geum`|backend & mainpage|
 |`eunjin`|backend & register|
 |`jongmyung`|frontend & managing|
